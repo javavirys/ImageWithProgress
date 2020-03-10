@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ImageViewWithProgress">
+        <!--        <attr name="borderImage" format="reference" />-->
+        <!--        <attr name="foregroundImage" format="reference" />-->
+        <!--        <attr name="scaleXForForegroundImage" format="float" />-->
+        <!--        <attr name="gradient" format="reference" />-->
+        <!--        <attr name="pressedTint" format="color" />-->
+        <!--        <attr name="normalTint" format="color" />-->
+        <!--        <attr name="text" format="reference" />-->
+        <!--        <attr name="textScale" format="float" />-->
+
+        <attr name="showProgress" format="boolean" />
+    </declare-styleable>
+</resources>
